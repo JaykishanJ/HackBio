@@ -1,4 +1,6 @@
 ```python
+# before starting this code we need Biopython so go to the python promt in my case its Anaconda prompt and just type 
+#im oderd to install Biopython type pip install Biopython 
 import Bio
 import nglview as nv 
 from Bio.PDB import *
